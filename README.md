@@ -17,7 +17,7 @@ The blog stays on Medium (https://medium.com/@will-flwrs). The "Writing" section
 - Skills section: collapsed by default; searchable and sortable; tool links in each role open it pre-searched (`?q=Terraform#skills-fold`).
 
 ## Logo files (`logo/`)
-- `mark-final-periwinkle.svg`: the site logo (realistic night sky, castle-stone frame, spiral stair to the moon, math-sign constellation).
+- `mark-final-periwinkle.svg`: the site logo (night sky, sage masonry frame, ivory crescent moon, and orbital math-sign constellation).
 - `mark-original-periwinkle.svg`: the favicon (simple window, reads at 16–32px).
 - `original-full-lockup.svg`: untouched original from the Wix logo kit.
 
